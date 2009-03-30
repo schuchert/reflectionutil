@@ -3,7 +3,7 @@
 	<property name="outputDir" value="bin" />
 	<property name="distDir" value="dist" />
 	<property name="testOutDir" value="test-dir" />
-	<property name="libDir" value="../lib" />
+	<property name="libDir" value="lib" />
 	<property name="jarFile" value="${distDir}/ReflectionUtil.jar" />
 
 	<path id="classpath">
